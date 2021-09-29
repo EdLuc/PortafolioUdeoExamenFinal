@@ -1,0 +1,18 @@
+{
+    "titulo": "Edgar Lucas",
+    "email": "edgarlucas20@gmail.com",
+    "producto": [{
+        "id": "1",
+        "nombre": "Tamaños de papel",
+        "categoria": "Librería",
+        "precio": "Q.2",
+        "stock": "200"
+    },
+    {
+        "id": "2",
+        "nombre": "Protector",
+        "categoria": "Tecnología",
+        "precio": "Q.275",
+        "stock": "50"
+    }]
+}

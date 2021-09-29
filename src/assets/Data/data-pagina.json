@@ -1,0 +1,24 @@
+{
+    "titulo": "Edgar Lucas",
+    "email": "edgarlucas20@gmail.com",
+    "nombre_corto": "Edgar",
+    "pagina_autor": "https://mipagina.com",
+    "facebook": "https://www.facebook.com/edgar.lucas.961/",
+    "twitter": "https://twitter.com/fjñdsalk",
+    "instagram": "https://www.instagram.com/edgarlucas20/",
+    "tumblr": "https://www.tumblr.com/edgarlucas",
+    "equipo_trabajo": [{
+        "nombre": "Juan",
+        "apellido": "Santos",
+        "dpi": "7849564891",
+        "dependientes": [{
+            "nombre": "Juan JR",
+            "apellido": "Santos",
+            "dpi": "4761568"
+        },{
+            "nombre": "Juanita",
+            "apellido": "Santos",
+            "dpi": "71654676515"
+        }]
+    }]
+}
